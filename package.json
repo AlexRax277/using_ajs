@@ -1,0 +1,23 @@
+{
+  "name": "using_ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexRax277/using_ajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexRax277/using_ajs/issues"
+  },
+  "homepage": "https://github.com/AlexRax277/using_ajs#readme",
+  "dependencies": {
+    "@alexrax277/ajs": "^1.0.0"
+  }
+}
